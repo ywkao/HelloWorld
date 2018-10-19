@@ -19,4 +19,5 @@ Also, foreign languages I am interested in are,
 In addition, several countries I want to visit are,
 - Japan
 - Swiss
+- Russia
 - Turkey
