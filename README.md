@@ -38,3 +38,5 @@ GitHub workflow
    git checkout master
    git fetch                                            # Get the updated info of the latest master.
    git merge origin/master                              # merge the current branch with the master branch on origin.
+8) git config credential.helper store
+   git push https://github.com/ywkao/HelloWorld.git
